@@ -1,3 +1,8 @@
+/***********************************************
+  Author : Nakul Rao I
+  Date : 10/7/2013
+************************************************/
+
 //Add the SPI library so we can communicate with the ADXL345 sensor
 #include <SPI.h>
 
